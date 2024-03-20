@@ -55,7 +55,7 @@ To acknowledge the reference or inspiration for your project, you can add a sect
 
 This project on Sign Language Detection using Action Recognition was inspired by and developed with reference to various resources and tutorials provided by Nick Nochnack. His contributions to the field of computer vision and machine learning, particularly his work on action recognition and sign language detection, have been invaluable to the development of this project.
 
-We would like to extend our sincerest gratitude to Nick Nochnack for making his resources available to the public, which have greatly facilitated our learning and development process. His GitHub repository, which contains a wealth of knowledge and code examples, can be found here: Nick Nochnack's GitHub.
+We would like to extend our sincerest gratitude to Nick Nochnack for making his resources available to the public, which have greatly facilitated our learning and development process. His GitHub repository, which contains a wealth of knowledge and code examples, can be found here: Nick Nochnack's GitHub - https://github.com/nicknochnack
 
 A special thanks goes out to everyone who has contributed to the aforementioned repository, as their work has directly influenced the successful completion of our project.
 
