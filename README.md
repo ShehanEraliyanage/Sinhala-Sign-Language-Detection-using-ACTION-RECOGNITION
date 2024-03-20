@@ -11,14 +11,17 @@ SignLanguageDetectionRealTimePrediction.ipynb: This notebook demonstrates how to
 Installation
 Before running the notebooks, ensure you have all the necessary dependencies installed. Both notebooks require similar dependencies, primarily focusing on mediapipe for keypoints extraction and TensorFlow for model training and prediction.
 
-# To install the required packages, use the following pip command:
+## Installation
 
- Used - Python Version 3.10.10
-!pip install tensorflow==2.13.0    
-!pip install mediapipe==0.10.3
-!pip install scikit-learn==1.3.1
-!pip install opencv-python==4.9.0.80
-!pip install matplotlib==3.8.3
+To install the required packages, use the following pip commands:
+
+- Python Version 3.10.10
+- `!pip install tensorflow==2.13.0`
+- `!pip install mediapipe==0.10.3`
+- `!pip install scikit-learn==1.3.1`
+- `!pip install opencv-python==4.9.0.80`
+- `!pip install matplotlib==3.8.3`
+
 
 # Notebooks Content
 
