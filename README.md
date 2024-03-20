@@ -1,4 +1,5 @@
-Sign-Language-Detection-using-ACTION-RECOGNITION
+# Sign-Language-Detection-using-ACTION-RECOGNITION
+
 This repository contains the code and documentation for a sign language detection system using action recognition techniques. The project utilizes mediapipe holistics for collecting keypoints and trains a Long Short-Term Memory (LSTM) Deep Learning model to recognize sign language from video input.
 
 Overview
@@ -11,7 +12,7 @@ Before running the notebooks, ensure you have all the necessary dependencies ins
 
 To install the required packages, use the following pip command:
 
-#Python Version 3.10.10
+# Python Version 3.10.10
 # !pip install tensorflow==2.13.0    
 # !pip install mediapipe==0.10.3
 # !pip install scikit-learn==1.3.1
